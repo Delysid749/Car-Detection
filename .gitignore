@@ -1,6 +1,7 @@
-.idea
+.idea/*
 .ipynb_checkpoints
 __pycache__
 *.pyc
 *.pyo
 *.pyd
+my_personal_key.py
